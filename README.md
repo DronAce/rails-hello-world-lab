@@ -3,6 +3,7 @@
 In this lab you will integrate a static route so that the application will render a "Hello World" page.
 
 ## Objectives
+
 1. Draw a route
 2. Map a route to a controller/action
 3. Render (implicitly or explicitly) a static template
